@@ -1,0 +1,5 @@
+@import /* webpackIgnore: true */ url(./second.css); /* 不进行webpack打包*/
+.qwer {
+  width: 300px;
+  background: url(./test.svg);
+}
